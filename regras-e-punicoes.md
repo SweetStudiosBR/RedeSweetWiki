@@ -3,6 +3,22 @@ description: >-
   Para que todos os jogadores tenham uma experiência de jogo agradável, o
   servidor possui algumas regras e condutas que devem ser cumpridas por todos. O
   descomprimento dessas regras pode gerar punições.
+cover: .gitbook/assets/Sweet Logo with Lobby Background.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # ❗ Regras e Punições
