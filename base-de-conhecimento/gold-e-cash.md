@@ -11,7 +11,7 @@ description: >-
 
 A maioria de itens exclusivos em modos de jogo podem ser adquiridos com o Gold, pois ele é uma "referência" ao dinheiro real (R$) já que pode ser comprado pelos jogadores través da Loja da Rede Sweet.
 
-No lobby da rede, itens cosméticos também podem ser comprados utilizando o Gold. Você também pode comprar Unban (desbanimento) para a sua conta utilizando o mesmo, para adquirí-lo em nossa loja e seguir os passos in-game, mesmo estando banido.
+No lobby da rede, itens cosméticos também podem ser comprados utilizando o Gold. Você também pode comprar Unban (desbanimento) para a sua conta utilizando o mesmo, basta adquirí-lo em nossa loja e seguir os passos in-game, mesmo estando banido.
 
 Para verificar seu saldo em Gold, você pode utilizar o comando **/gold** in-game.
 
