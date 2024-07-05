@@ -2,7 +2,7 @@
 description: >-
   Aqui você aprenderá sobre os sitemas gerais da rede. Ou seja, sistemas que
   estão presentes globalmente em todos os modos de jogo.
-cover: .gitbook/assets/Sweet Logo with Lobby Background.png
+cover: ../.gitbook/assets/Sweet Logo with Lobby Background.png
 coverY: 0
 layout:
   cover:
