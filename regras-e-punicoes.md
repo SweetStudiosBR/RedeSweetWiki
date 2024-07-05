@@ -87,7 +87,7 @@ Utilizar palavras de baixo calão ou ofender outros jogadores é proibido.
 
 #### Punição:
 
-<table><thead><tr><th>Recorrência</th><th>Punição</th><th width="100">IP</th></tr></thead><tbody><tr><td>1º e 2º</td><td>Aviso</td><td>Não</td></tr><tr><td>2º</td><td>6 horas de banimento</td><td>Não</td></tr><tr><td>3º</td><td>12 horas de banimento</td><td>Não</td></tr><tr><td>4º em diante</td><td>1 dia de banimento</td><td>Não</td></tr></tbody></table>
+<table><thead><tr><th>Recorrência</th><th>Punição</th><th width="100">IP</th></tr></thead><tbody><tr><td>1º e 2º</td><td>Aviso</td><td>Não</td></tr><tr><td>3º</td><td>6 horas de banimento</td><td>Não</td></tr><tr><td>4º</td><td>12 horas de banimento</td><td>Não</td></tr><tr><td>5º em diante</td><td>1 dia de banimento</td><td>Não</td></tr></tbody></table>
 
 ## Regra #10 - <mark style="color:red;">Desinformação</mark>
 
