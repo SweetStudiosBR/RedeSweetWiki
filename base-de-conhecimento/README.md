@@ -24,8 +24,9 @@ layout:
 
 **Alguns tópicos que você verá na Base de Conhecimento da Rede Sweet serão:**
 
-* Tags (grupos/cargos): Diretor, Admin, Moderador, Ajudante, Rei, Duque, Marquês e Membro.
+* Tags (grupos): Diretor, Admin, Moderador, Ajudante, Rei, Duque, Marquês e Membro.
 * VIPs: <mark style="color:blue;">Rei</mark>, <mark style="color:green;">Duque</mark> e <mark style="color:yellow;">Marquês</mark>.
 * Modos de Jogo: **RankUP**.
-* Moedas globais: **Gold e Cash**.
 * Comandos globais como: /lobby, /tell, /skin, /amigo, /ping, /discord e etc.
+* Moedas globais: **Gold e Cash**.
+

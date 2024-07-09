@@ -20,3 +20,5 @@ Para verificar seu saldo em Gold, você pode utilizar o comando **/gold** in-gam
 O Cash é uma moeda recebida mensalmente pelos VIPs nas entregras mensais que podem ser coletadas através do NPC Entregador que fica nos lobbies principais da rede.
 
 Sua função é basicamente ser uma moeda de compra de itens cosméticos para os jogadores da rede. Não possui um valor "referência" ao dinheiro real (R$) como o Gold.
+
+Para verificar seu saldo em Cash, você pode utilizar o comando **/cash** in-game.
