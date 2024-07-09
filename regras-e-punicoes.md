@@ -28,7 +28,7 @@ Você pode reportar jogadores que tiverem conduta não condizente com as regras 
 
 
 {% hint style="info" %}
-Sobre as recorrências e punições/tempo, vale lembrar que punições revogadas (pela equipe através da revisão) ou por Unban, não são consideradas no número de recorrências e são como se não tivessem existido nesse quesito.
+Sobre as recorrências e punições/tempo, vale lembrar que punições antigas (mais que 3 meses atrás a contar da data de início) e revogadas (pela equipe através da revisão) ou por Unban, não são consideradas no número de recorrências e são como se não tivessem existido nesse quesito.
 {% endhint %}
 
 
