@@ -26,7 +26,7 @@ layout:
 
 ## Conexão
 
-IP & Versão:
+#### IP & Versão:
 
 * redesweet.com
 * 1.8.x até 1.20.x - é aconselhado o uso da versão 1.8.9 para uma melhor experiência.
