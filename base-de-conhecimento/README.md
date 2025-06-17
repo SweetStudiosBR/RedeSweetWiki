@@ -26,7 +26,6 @@ layout:
 
 * Tags (grupos): Diretor, Admin, Moderador, Ajudante, Rei, Duque, Marquês e Membro.
 * VIPs: <mark style="color:blue;">Rei</mark>, <mark style="color:green;">Duque</mark> e <mark style="color:yellow;">Marquês</mark>.
-* Modos de Jogo: **RankUP**.
 * Comandos globais como: /lobby, /tell, /skin, /amigo, /ping, /discord e etc.
 * Moedas globais: **Gold e Cash**.
 
