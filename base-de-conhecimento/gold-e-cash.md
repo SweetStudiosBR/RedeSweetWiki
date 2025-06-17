@@ -7,7 +7,7 @@ description: >-
 
 # 💲 Gold e Cash
 
-## Gold
+## 🪙 Gold
 
 A maioria de itens exclusivos em modos de jogo podem ser adquiridos com o Gold, pois ele é uma "referência" ao dinheiro real (R$) já que pode ser comprado pelos jogadores través da Loja da Rede Sweet.
 
@@ -15,7 +15,7 @@ No lobby da rede, itens cosméticos também podem ser comprados utilizando o Gol
 
 Para verificar seu saldo em Gold, você pode utilizar o comando **/gold** in-game.
 
-## Cash
+## 💵 Cash
 
 O Cash é uma moeda recebida mensalmente pelos VIPs nas entregras mensais que podem ser coletadas através do NPC Entregador que fica nos lobbies principais da rede.
 

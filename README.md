@@ -24,7 +24,7 @@ layout:
 >
 > Desde ajuda para conexão, regras e informações básicas até os dados mais técnicos sobre os sistemas dos modos de jogo.
 
-## Conexão
+## 🔗 Conexão
 
 #### IP & Versão:
 
@@ -35,7 +35,7 @@ layout:
 
 
 
-## Reinício & Manutenção
+## 🛠️ Reinício & Manutenção
 
 #### Reinício:
 
