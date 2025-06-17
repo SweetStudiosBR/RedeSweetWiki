@@ -1,0 +1,2 @@
+# Cápsula Mística (crates)
+

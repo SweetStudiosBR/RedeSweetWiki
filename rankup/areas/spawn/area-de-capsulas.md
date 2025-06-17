@@ -1,0 +1,2 @@
+# Área de Cápsulas
+
