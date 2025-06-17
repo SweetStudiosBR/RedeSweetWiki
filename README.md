@@ -33,7 +33,7 @@ IP & Versão:
 
 <figure><img src=".gitbook/assets/sweet_motd.png" alt="Sweet MOTD"><figcaption><p>A Rede Sweet deve aparecer corretamente na sua lista de servidores.</p></figcaption></figure>
 
-##
+
 
 ## Reinício & Manutenção
 
