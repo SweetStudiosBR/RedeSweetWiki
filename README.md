@@ -54,10 +54,3 @@ A Rede Sweet passa por atualizações periodicamente para manter a qualidade de 
 {% hint style="info" %}
 Caso precise de ajuda relacionada à conexão ou qualquer outra questão, entre em contato conosco em nosso Discord: [https://redesweet.com/discord](https://redesweet.com/discord)
 {% endhint %}
-
-{% embed url="https://redesweet.com/discord" fullWidth="false" %}
-Comunidade da Rede Sweet no Discord.
-{% endembed %}
-
-
-
