@@ -1,2 +1,2 @@
-# Morte & Penalidades
+# 🩸 Morte & Penalidades
 

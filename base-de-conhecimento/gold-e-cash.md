@@ -1,8 +1,7 @@
 ---
 description: >-
   O Gold e o Cash são moedas universais da rede que podem ser usadas para
-  adquirir itens em qualquer modo de jogo. Nem todos os itens podem ser
-  adquiridos necessarimente utilizando Gold e Cash.
+  adquirir itens (normalmente especiais ou cosméticos) em qualquer modo de jogo.
 ---
 
 # 💲 Gold e Cash

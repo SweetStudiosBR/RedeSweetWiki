@@ -1,2 +1,2 @@
-# Mina de Ouro
+# 🟡 Mina de Ouro
 

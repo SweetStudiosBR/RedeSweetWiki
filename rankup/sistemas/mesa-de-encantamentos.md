@@ -1,2 +1,0 @@
-# Mesa de Encantamentos
-

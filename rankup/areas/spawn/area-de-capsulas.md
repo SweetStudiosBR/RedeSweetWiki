@@ -1,2 +1,2 @@
-# Área de Cápsulas
+# 🎁 Área de Cápsulas
 

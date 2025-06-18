@@ -1,2 +1,2 @@
-# Cápsula Mística (crates)
+# 🎁 Cápsula Mística (crates)
 

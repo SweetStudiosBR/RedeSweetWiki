@@ -1,7 +1,7 @@
 ---
 description: >-
-  Aprenda sobre os comandos globais da Rede Sweet, que estão disponíveis em
-  todos os modos de jogo e nos lobbies princiais.
+  Aprenda sobre os comandos globais da rede, que estão disponíveis em todos os
+  modos de jogo e nos lobbies princiais.
 ---
 
 # 💾 Comandos Gerais

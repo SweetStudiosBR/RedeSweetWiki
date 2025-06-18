@@ -1,2 +1,2 @@
-# Cofre do Banqueiro
+# 💰 Cofre do Banqueiro
 
